@@ -1,37 +1,29 @@
-<div>
+
 <picture>
             <source media="(prefers-color-scheme: dark)" srcset="https://music-profile.rayriffy.com/theme/dark.svg?uid=001032.304f8e246aa643019e63b6bf94f751a2.0953">
-            <img alt="My Apple Music Now Playing" src="https://music-profile.rayriffy.com/theme/light.svg?uid=001032.304f8e246aa643019e63b6bf94f751a2.0953" align="right" />
+            <img alt="My Apple Music Now Playing" src="https://music-profile.rayriffy.com/theme/light.svg?uid=001032.304f8e246aa643019e63b6bf94f751a2.0953" align="right" height=370/>
 </picture>
 
 ```js
-          
-            
-            
-            
-            poopsicles@github: ~ $ whoami
-       ──────────────────────────────────────────────────
+poopsicles@github: ~ $ whoami
+──────────────────────────────────────────────────
 
-            os         • windows 11 x86_64
-            shell      • pwsh 7.3.4
+os         • windows 11 x86_64
+shell      • pwsh 7.3.4
 
-            personal   • fumnanya kavan mowete / 18yo
-                         male / lagos, nigeria
+personal   • fumnanya kavan mowete / 18yo
+             male / lagos, nigeria
 
-            languages  • rust, c#, python
+languages  • rust, c#, python
 
-            interests  • ui design, osdev, indie games
-                         noodles, soda
+interests  • ui design, osdev, indie games
+             noodles, soda
 
-            twitter    • @NotFumnanya
-            reddit     • u/HotGarbage1813
-            e-mail     • fmowete@icloud.com
-            
-            
-            
-            
+twitter    • @NotFumnanya
+reddit     • u/HotGarbage1813
+e-mail     • fmowete@icloud.com       
 ```
-            
+        
 ---
 
 <table>
