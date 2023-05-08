@@ -8,8 +8,9 @@
 poopsicles@github: ~ $ whoami
 ──────────────────────────────────────────────────
 
-os         • windows 11 x86_64
-shell      • pwsh 7.3.4
+arch       • x86_64
+os         • windows 11 / fedora 38 
+shell      • pwsh 7.3.4 / bash 5.2.15
 
 personal   • fumnanya kavan mowete / 18yo
              male / lagos, nigeria
