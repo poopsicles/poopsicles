@@ -1,6 +1,6 @@
 <picture>
             <source media="(prefers-color-scheme: dark)" srcset="https://music-profile.rayriffy.com/theme/dark.svg?uid=001032.304f8e246aa643019e63b6bf94f751a2.0953">
-            <img alt="My Apple Music Now Playing" src="https://music-profile.rayriffy.com/theme/light.svg?uid=001032.304f8e246aa643019e63b6bf94f751a2.0953" align="left" height=390 />
+            <img alt="My Apple Music Now Playing" src="https://music-profile.rayriffy.com/theme/light.svg?uid=001032.304f8e246aa643019e63b6bf94f751a2.0953" align="left" height=370 />
 </picture>
 
 ```js
