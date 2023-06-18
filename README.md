@@ -9,18 +9,20 @@ poopsicles@github: ~ $ whoami
 
 arch       • x86_64
 os         • windows 11 / fedora 38 
-shell      • pwsh 7.3.4 / bash 5.2.15
+shell      • nu 0.81.1 / bash 5.2.15
 
 personal   • fumnanya kavan mowete / 18yo
              male / lagos, nigeria
 
 languages  • rust, c#, python
 
-interests  • ui design, osdev, indie games
-             noodles, soda
+interests  • ui design, osdev, systems,
+             indie games, noodles
 
 twitter    • @NotFumnanya
+discord    • fumnanya
 reddit     • u/HotGarbage1813
+
 e-mail     • fmowete@icloud.com       
 ```
         
