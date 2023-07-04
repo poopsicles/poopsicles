@@ -19,7 +19,7 @@ languages  • rust, c#, python
 interests  • ui design, osdev, systems,
              indie games, noodles
 
-twitter    • @NotFumnanya
+mastodon   • @fumnanya@hachyderm.io
 discord    • fumnanya
 reddit     • u/HotGarbage1813
 
