@@ -9,7 +9,7 @@ poopsicles@github: ~ $ whoami
 
 arch       • x86_64
 os         • windows 11 / fedora 38 
-shell      • nu 0.81.1 / bash 5.2.15
+shell      • nu 0.82.0 / zsh 5.9
 
 personal   • fumnanya kavan mowete / 18yo
              male / lagos, nigeria
