@@ -8,8 +8,8 @@ poopsicles@github: ~ $ whoami
 ──────────────────────────────────────────────────
 
 arch       • x86_64
-os         • windows 11 / fedora 38 
-shell      • nu 0.82.0 / zsh 5.9
+os         • macOS 12.7
+shell      • zsh 5.8.1
 
 personal   • fumnanya kavan mowete / 18yo
              male / lagos, nigeria
