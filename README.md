@@ -23,7 +23,8 @@ mastodon   • @fumnanya@hachyderm.io
 discord    • @fumnanya
 reddit     • u/HotGarbage1813
 
-e-mail     • fmowete@icloud.com       
+e-mail     • fmowete@icloud.com
+site       • fumnanya.vercel.app 
 ```
         
 ---
