@@ -8,19 +8,19 @@ poopsicles@github: ~ $ whoami
 ──────────────────────────────────────────────────
 
 arch       • x86_64
-os         • macOS 12.7
-shell      • zsh 5.8.1
+os         • Fedora Linux 39 (Workstation Edition)
+shell      • zsh 5.9
 
 personal   • fumnanya kavan mowete / 18yo
              male / lagos, nigeria
 
 languages  • rust, c#, python
 
-interests  • ui design, osdev, systems,
+interests  • systems, ui design, osdev,
              indie games, noodles
 
 mastodon   • @fumnanya@hachyderm.io
-discord    • fumnanya
+discord    • @fumnanya
 reddit     • u/HotGarbage1813
 
 e-mail     • fmowete@icloud.com       
