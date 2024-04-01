@@ -1,6 +1,6 @@
 <picture>
             <source media="(prefers-color-scheme: dark)" srcset="https://github-spotify-readme-self-deploy.vercel.app/now-playing/q?uid=dsqvm5x8lly6zcidosb8xxwce&size=med&theme=dark">
-            <img alt="My Spotify Now Playing" src="https://github-spotify-readme-self-deploy.vercel.app/now-playing/q?uid=dsqvm5x8lly6zcidosb8xxwce&size=med&theme=light" align="left" height="470px"/>
+            <img alt="My Spotify Now Playing" src="https://github-spotify-readme-self-deploy.vercel.app/now-playing/q?uid=dsqvm5x8lly6zcidosb8xxwce&size=med&theme=light" align="left" height="430px"/>
 </picture>
 
 ```js
