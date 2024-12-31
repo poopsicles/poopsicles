@@ -28,7 +28,7 @@ discord    • @fumnanya
 reddit     • u/HotGarbage1813
 
 e-mail     • fmowete@outlook.com
-site       • fumnanya.vercel.app 
+site       • fum.lol
 ```
         
 ---
